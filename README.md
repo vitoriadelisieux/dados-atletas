@@ -1,6 +1,6 @@
 # dados-atletas
 
-Este projeto implementa a classe ** Atleta ** 
+Este projeto implementa a classe **Atleta** 
 
 ## Sobre o Projeto
 Este projeto é uma aplicação em JavaScript capaz de receber informações dos atletas e exibi-los para o usuário.
